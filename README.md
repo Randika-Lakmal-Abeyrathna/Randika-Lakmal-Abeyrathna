@@ -1,6 +1,6 @@
 ### Hi there, I'm Randika Lakmal 👋
 
---## I'm a Husband, Father, Developer, and Teacher!!
+<!-- ## I'm a Husband, Father, Developer, and Teacher!! -->
 
 - 🔭 I’m currently Working as a Senior Software Engineer for HCL Technologies Lanka Pvt. Ltd
 - 🌱 I’m currently learning Java and Springboot
