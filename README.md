@@ -13,12 +13,6 @@
 
 ## <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
- <img align="left" alt="Randiks's GitHub Stats" src="https://github-readme-stats.Randika-Lakmal-Abeyrathna.vercel.app/api?username=Randika-Lakmal-Abeyrathna&show_icons=false&hide_border=false" />
-
-</details>
-
 [website]: https://www.randikalakmal.com
 [instagram]: https://www.instagram.com/randika_lakmal93/
 [linkedin]: https://www.linkedin.com/in/randika-abeyrathna
