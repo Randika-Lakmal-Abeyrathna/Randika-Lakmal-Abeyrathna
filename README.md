@@ -15,8 +15,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.Randika-Lakmal-Abeyrathna.vercel.app/api?username=Randika-Lakmal-Abeyrathna&show_icons=true&hide_border=true" />
+ <img align="left" alt="Randiks's GitHub Stats" src="https://github-readme-stats.Randika-Lakmal-Abeyrathna.vercel.app/api?username=Randika-Lakmal-Abeyrathna&show_icons=false&hide_border=false" />
 
 </details>
 
