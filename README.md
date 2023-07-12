@@ -8,7 +8,7 @@ I am a developer who loves to code and learn new things!
 
 * 🌍  I'm based in Colombo
 * ✉️  You can contact me at [randika.l.abeyrathna@gmail.com](mailto:randika.l.abeyrathna@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithems
+* 🧠  I'm learning Data Structures and algorithms
 * 🤝  I'm open to collaborating on Backend projects
 * ⚡  I'm Batman !!!
 
