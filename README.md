@@ -27,10 +27,6 @@ I am a developer who loves to code and learn new things!
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Randika-Lakmal-Abeyrathna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 <b>My GitHub Stats</b>
 
 
