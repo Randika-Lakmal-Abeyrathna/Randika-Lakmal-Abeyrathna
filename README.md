@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Randika+%F0%9F%91%8B;Lead+Software+Engineer+%40+IFS;8%2B+years+building+enterprise+Java+backends;Turning+slow+queries+into+fast+ones+%E2%9A%A1;Exploring+AI-powered+backends+with+Spring+AI+%F0%9F%A4%96;Mentoring+engineers%2C+still+hands-on" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Randika+%F0%9F%91%8B;Lead+Software+Engineer+%40+IFS;9%2B+years+building+enterprise+Java+backends;Turning+slow+queries+into+fast+ones+%E2%9A%A1;Exploring+AI-powered+backends+with+Spring+AI+%F0%9F%A4%96;Mentoring+engineers%2C+still+hands-on" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Lead Software Engineer** with **8+ years** of experience designing and building enterprise Java backends.
+I'm a **Lead Software Engineer** with **9+ years** of experience designing and building enterprise Java backends.
 I've shipped software across **aerospace, banking, healthcare and financial services**, and I enjoy the hard parts:
 untangling legacy systems, tuning databases, and helping engineers grow — while staying hands-on with the code.
 
@@ -32,7 +32,7 @@ untangling legacy systems, tuning databases, and helping engineers grow — whil
 public class Randika extends SoftwareEngineer {
 
     String role       = "Lead Software Engineer";
-    int    experience = 8; // years, and counting
+    int    experience = 9; // years, and counting
     String[] domains  = { "Aerospace", "Banking", "Healthcare", "Financial Services" };
 
     String[] currentFocus = {
