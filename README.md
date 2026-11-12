@@ -4,14 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Randika+%F0%9F%91%8B;Lead+Software+Engineer+%40+IFS;8%2B+years+building+enterprise+Java+backends;Turning+slow+queries+into+fast+ones+%E2%9A%A1;Building+AI-powered+backends+with+Spring+AI+%F0%9F%A4%96;Mentoring+engineers%2C+still+hands-on" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Randika+%F0%9F%91%8B;Lead+Software+Engineer+%40+IFS;8%2B+years+building+enterprise+Java+backends;Turning+slow+queries+into+fast+ones+%E2%9A%A1;Exploring+AI-powered+backends+with+Spring+AI+%F0%9F%A4%96;Mentoring+engineers%2C+still+hands-on" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/randika-abeyrathna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:randika.l.abeyrathna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Backend%20Collaborations-a6e3a1?style=for-the-badge" alt="Open to collaborations" />
-  <img src="https://komarev.com/ghpvc/?username=Randika-Lakmal-Abeyrathna&style=for-the-badge&color=89b4fa&label=Profile+Views" alt="Profile views" />
+  <a href="https://www.youtube.com/@coffeeandcodedev"><img src="https://img.shields.io/badge/YouTube-Coffee%20%26%20Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: Coffee & Code" /></a>
+  <a href="https://randika.me"><img src="https://img.shields.io/badge/Website-randika.me-313244?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
@@ -23,7 +23,8 @@ I've shipped software across **aerospace, banking, healthcare and financial serv
 untangling legacy systems, tuning databases, and helping engineers grow — while staying hands-on with the code.
 
 - 🏢 Currently leading a backend team at **IFS**, modernizing legacy Java/JSP modules onto **IFS Cloud (Aurena)**
-- 🤖 Exploring **AI in the Java world**: building LLM-powered features with **Spring AI** & **LangChain4j**
+- 🤖 Exploring **AI in the Java world**: learning to build LLM-powered features with **Spring AI** & **LangChain4j**
+- 🎥 Teaching Spring Boot on my YouTube channel **[Coffee & Code](https://www.youtube.com/@coffeeandcodedev)**
 - ⚡ I like reading **execution plans** more than most people should
 - 🧑‍🏫 I mentor engineers through code reviews, pairing and knowledge sharing
 - 🧠 Always sharpening my **Data Structures & Algorithms**
@@ -48,6 +49,29 @@ public class Randika extends SoftwareEngineer {
     String funFact = "A query plan with a FULL TABLE SCAN keeps me up at night.";
 }
 ```
+
+---
+
+## 📌 Featured Projects
+
+| Project | What it shows | Stack |
+|---|---|---|
+| **[nexuspay-core](https://github.com/Randika-Lakmal-Abeyrathna/nexuspay-core)** | A digital wallet built step by step: concurrency-safe transfers, idempotency, caching and reliable events | Java 25 · Spring Boot 4 · Spring Modulith · PostgreSQL · Testcontainers |
+| **[EventMart](https://github.com/Randika-Lakmal-Abeyrathna/EventMart)** | Event-driven microservices monorepo: gateway, auth, product, inventory and order services, with CI | Spring Boot · Microservices · Docker · GitHub Actions |
+| **[SpringBootSAGA](https://github.com/Randika-Lakmal-Abeyrathna/SpringBootSAGA)** | Choreography-based Saga across order and payment services, with compensation when payment fails | Spring Cloud Stream · Kafka · MySQL |
+| **[spring-modulith-sample](https://github.com/Randika-Lakmal-Abeyrathna/spring-modulith-sample)** | A parking system as a modular monolith, with module boundaries verified in tests | Spring Modulith · JPA · MySQL |
+| **[LeetCode75](https://github.com/Randika-Lakmal-Abeyrathna/LeetCode75)** | Ongoing DSA practice, organised by pattern | Java |
+
+---
+
+## 🎥 Coffee & Code on YouTube
+
+I explain backend topics the way I'd explain them to my team: real code, real trade-offs, no fluff.
+Current series: **Spring Boot Caching**, from `@Cacheable` basics to Caffeine and Redis in production.
+
+<p align="center">
+  <a href="https://www.youtube.com/@coffeeandcodedev"><img src="https://img.shields.io/badge/Watch%20on%20YouTube-@coffeeandcodedev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" /></a>
+</p>
 
 ---
 
@@ -148,36 +172,7 @@ timeline
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Randika-Lakmal-Abeyrathna&theme=tokyonight" alt="Stats" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Randika-Lakmal-Abeyrathna&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Randika-Lakmal-Abeyrathna&theme=catppuccin-mocha&hide_border=true&border_radius=10" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Randika-Lakmal-Abeyrathna&theme=tokyonight" alt="Contribution graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Randika-Lakmal-Abeyrathna/Randika-Lakmal-Abeyrathna/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Randika-Lakmal-Abeyrathna/Randika-Lakmal-Abeyrathna/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Randika-Lakmal-Abeyrathna/Randika-Lakmal-Abeyrathna/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 </p>
 
 <!-- Footer -->
