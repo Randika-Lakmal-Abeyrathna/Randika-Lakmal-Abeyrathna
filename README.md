@@ -53,7 +53,7 @@ public class Randika extends SoftwareEngineer {
 
 | Project | What it shows | Stack |
 |---|---|---|
-| **[nexuspay-core](https://github.com/Randika-Lakmal-Abeyrathna/nexuspay-core)** | A digital wallet built step by step: concurrency-safe transfers, idempotency, caching and reliable events | Java 25 · Spring Boot 4 · Spring Modulith · PostgreSQL · Testcontainers |
+| **ARM: Automated Resources Management System** ([API](https://github.com/Randika-Lakmal-Abeyrathna/Automated-Resources-Management-System-Service) · [Web](https://github.com/Randika-Lakmal-Abeyrathna/Automated-Resources-Management-System-Frontend)) | Full-stack teacher transfer system: role-based approval workflow, vacancy-based school suggestions, email notifications | Spring Boot · Spring Security + JWT · MySQL · Angular · GitHub Actions · SonarCloud |
 | **[EventMart](https://github.com/Randika-Lakmal-Abeyrathna/EventMart)** | Event-driven microservices monorepo: gateway, auth, product, inventory and order services, with CI | Spring Boot · Microservices · Docker · GitHub Actions |
 | **[SpringBootSAGA](https://github.com/Randika-Lakmal-Abeyrathna/SpringBootSAGA)** | Choreography-based Saga across order and payment services, with compensation when payment fails | Spring Cloud Stream · Kafka · MySQL |
 | **[spring-modulith-sample](https://github.com/Randika-Lakmal-Abeyrathna/spring-modulith-sample)** | A parking system as a modular monolith, with module boundaries verified in tests | Spring Modulith · JPA · MySQL |
