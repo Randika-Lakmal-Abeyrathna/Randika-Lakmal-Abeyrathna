@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/randika-abeyrathna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:randika.l.abeyrathna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.youtube.com/@coffeeandcodedev"><img src="https://img.shields.io/badge/YouTube-Coffee%20%26%20Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube: Coffee & Code" /></a>
   <a href="https://randika.me"><img src="https://img.shields.io/badge/Website-randika.me-313244?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
 
@@ -23,9 +22,7 @@ I've shipped software across **aerospace, banking, healthcare and financial serv
 untangling legacy systems, tuning databases, and helping engineers grow — while staying hands-on with the code.
 
 - 🏢 Currently leading a backend team at **IFS**, modernizing legacy Java/JSP modules onto **IFS Cloud (Aurena)**
-- 🤖 Exploring **AI in the Java world**: learning to build LLM-powered features with **Spring AI** & **LangChain4j**
-- 🎥 Teaching Spring Boot on my YouTube channel **[Coffee & Code](https://www.youtube.com/@coffeeandcodedev)**
-- ⚡ I like reading **execution plans** more than most people should
+- 🤖 Exploring **AI in the Java world**: learning to build LLM-powered features with **Spring AI** & **LangChain4j**- ⚡ I like reading **execution plans** more than most people should
 - 🧑‍🏫 I mentor engineers through code reviews, pairing and knowledge sharing
 - 🧠 Always sharpening my **Data Structures & Algorithms**
 - 🌍 Based in **Colombo, Sri Lanka** 🇱🇰
@@ -61,17 +58,6 @@ public class Randika extends SoftwareEngineer {
 | **[SpringBootSAGA](https://github.com/Randika-Lakmal-Abeyrathna/SpringBootSAGA)** | Choreography-based Saga across order and payment services, with compensation when payment fails | Spring Cloud Stream · Kafka · MySQL |
 | **[spring-modulith-sample](https://github.com/Randika-Lakmal-Abeyrathna/spring-modulith-sample)** | A parking system as a modular monolith, with module boundaries verified in tests | Spring Modulith · JPA · MySQL |
 | **[LeetCode75](https://github.com/Randika-Lakmal-Abeyrathna/LeetCode75)** | Ongoing DSA practice, organised by pattern | Java |
-
----
-
-## 🎥 Coffee & Code on YouTube
-
-I explain backend topics the way I'd explain them to my team: real code, real trade-offs, no fluff.
-Current series: **Spring Boot Caching**, from `@Cacheable` basics to Caffeine and Redis in production.
-
-<p align="center">
-  <a href="https://www.youtube.com/@coffeeandcodedev"><img src="https://img.shields.io/badge/Watch%20on%20YouTube-@coffeeandcodedev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" /></a>
-</p>
 
 ---
 
